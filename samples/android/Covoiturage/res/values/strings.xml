@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Carpool</string>
+    <string name="callout_new">new carpool</string>
+    <string name="callout_join">join carpool</string>
+    <string name="callout_save">save carpool</string>
+    <string name="callout_none">No carpools.\r\nTo create one tap \'+\'.</string>
+    <string name="callout_member">You are not a member of the group.\r\nTap to retry.</string>
+    <string name="callout_comments_none">To join thumbs up!</string>
+    <string name="app_callout">carpool</string>
+    <string name="app_createcallout">Create carpool</string>
+    <string name="app_title_hint">title</string>
+    <string name="app_description_hint">description</string>
+    <string name="app_date_hint">date</string>
+    <string name="app_time_hint">time</string>
+    <string name="app_from_hint">from location</string>
+    <string name="app_to_hint">to location</string>
+    <string name="app_all_fields">Input all fields.</string>
+    <string name="callout_join_text">Count me in!</string>
+    <string name="app_callout_format">From: %1$s\r\nTo: %2$s\r\nDate: %3$s\r\nTime: %4$s\r\nDescription: %5$s</string>
+
+</resources>
